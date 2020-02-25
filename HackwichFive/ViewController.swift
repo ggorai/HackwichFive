@@ -16,5 +16,10 @@ class ViewController: UIViewController {
     }
 
 
+    @IBOutlet var OneLabel: UIView!
+    
+    @IBAction func ButtonPress(_ sender: Any) {
+    }
 }
+
 
